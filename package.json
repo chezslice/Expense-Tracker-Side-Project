@@ -1,0 +1,9 @@
+{
+  "name": "expense-tracker-final",
+  "version": "0.0.0",
+  "description": "Expense Tracker Final",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
